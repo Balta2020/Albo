@@ -1,0 +1,9 @@
+
+
+#EXTM3U
+#EXTINF:-1,Sportv 1
+https://cdn3.wowza.com/1/UmRJTkFqcDlQVlNn/ZW5ZWDdN/hls/h6bntjhn/2728/chunklist.m3u8?
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-7Wppv_MV3s4/X2QH9y4ioTI/AAAAAAAABVI/ylN3LQyle9MvDakX16b6Z0HOyxSh81_LQCLcBGAsYHQ/w200-h200/10%2BEspn%2B1.png" group-title="LATINOS-ARGENTINA", ARG-Espn (Local)(M)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/22112
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Wfwx61RqKUA/X2QH-aBKXDI/AAAAAAAABVM/kdBidh7wITgIgLWEvbqEFs5e9N95YGqWwCLcBGAsYHQ/w200-h200/11%2BEspn%2B2.png" group-title="LATINOS-ARGENTINA", ARG-Espn 2 (tr)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/59802
